@@ -1,0 +1,8 @@
+DIM x AS INTEGER
+
+CLS
+
+FOR x = 21 TO 40 STEP 2
+    PRINT x
+NEXT x
+

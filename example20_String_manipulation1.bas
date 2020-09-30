@@ -1,0 +1,3 @@
+CLS
+PRINT LEN("Hello")
+

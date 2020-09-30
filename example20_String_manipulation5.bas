@@ -1,0 +1,4 @@
+CLS
+LOCATE 12, 20
+PRINT "Hello"
+
